@@ -4,5 +4,6 @@ public class InitApp{
         System.out.println("Hello Again");
 
         System.out.println("I like typing this.");
+        System.out.println("Hello, A");
     }
 }
