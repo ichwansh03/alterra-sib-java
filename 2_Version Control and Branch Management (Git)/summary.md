@@ -29,5 +29,10 @@ Setting up pada git:
 ## Task
 ![tugas](./screenshots/Tugas.PNG)
 
-hasil:
+## hasil:
 ![branching](./screenshots/branch.PNG)
+![stash](./screenshots/stash.PNG)
+![conflict](./screenshots/conflict.PNG)
+![pullrequest](./screenshots/pullrequest.PNG)
+
+
