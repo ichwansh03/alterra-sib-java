@@ -10,5 +10,7 @@ public class InitApp{
         for(int i = 0; i < 10; i++){
             System.out.println("This is a loop");
         }
+
+        System.out.println("Checking out the branch");
     }
 }
