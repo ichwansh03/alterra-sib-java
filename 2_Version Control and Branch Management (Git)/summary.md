@@ -30,3 +30,4 @@ Setting up pada git:
 ![tugas](./screenshots/Tugas.PNG)
 
 hasil:
+![branching](./screenshots/branch.PNG)
