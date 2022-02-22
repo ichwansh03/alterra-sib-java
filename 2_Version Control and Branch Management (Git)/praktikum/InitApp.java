@@ -5,6 +5,7 @@ public class InitApp{
 
         System.out.println("I like typing this.");
         System.out.println("Hello, A");
+        System.out.println("Hello, B");
         
         for(int i = 0; i < 10; i++){
             System.out.println("This is a loop");
