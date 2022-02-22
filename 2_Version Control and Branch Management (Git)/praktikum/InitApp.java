@@ -12,5 +12,9 @@ public class InitApp{
         }
 
         System.out.println("Checking out the branch");
+        int a = 2;
+
+        if(a % 2 == 0){
+            System.out.println("a is even");
     }
 }
