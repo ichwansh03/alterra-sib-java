@@ -5,7 +5,7 @@
 2. Karakteristik Dynamic Programming
 3. Metode Dynamic Programming
 
-### Apa itu Dynamic Programming?
+### Apa itu Dynamic Programming
 Dynamic Programming adalah teknik memecahkan dan mengoptimalkan masalah dengan memecahnya menjadi submasalah yang lebih sederhana dan memanfaatkan fakta bahwa optimal solution untuk semua malasah bergantung pada optimal solution untuk submasalahnya.
 
 ### Karakteristik Dynamic Programming
