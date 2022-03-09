@@ -1,5 +1,5 @@
 
-public class Bikes extends Vechile{
+public class Bike extends Vechile{
 
     String wheel_count;
 
