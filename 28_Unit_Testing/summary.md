@@ -34,3 +34,9 @@ Unit test harus dapat diulang dan jika dijalankan beberapa kali harus menghasilk
 Untuk mengetahui apakah unit test telah lulus atau tidak, developer tidak boleh melakukan pemeriksaan manual tambahan seleteh test selesai
 5. Thorough (teliti)
 Buat beberapa unit test untuk menguji fungsi yang menerim parameter input yang berbeda, valid dan tidak valid.
+
+## Task
+[!Tugas Section 28](https://docs.google.com/document/d/12TeIket8AmG-joEkbP69t7BurbQqIFA8Vf1hIaMu2P8/edit)
+
+## Hasil
+[!Unit Tests](https://github.com/sholihin030401/javaspringboot_ichwan-sholihin/blob/main/28_Unit_Testing/praktikum/nosql/nosql/src/test/java/com/ichwan/nosql/ProductTest.java)
