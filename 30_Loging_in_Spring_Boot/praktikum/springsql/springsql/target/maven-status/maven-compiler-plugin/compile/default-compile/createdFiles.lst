@@ -1,0 +1,5 @@
+com\ichwan\springsql\model\Product.class
+com\ichwan\springsql\Controller\ProductController.class
+com\ichwan\springsql\service\ProductServiceImpl.class
+com\ichwan\springsql\service\ProductService.class
+com\ichwan\springsql\repository\ProductRepo.class
